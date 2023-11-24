@@ -1,0 +1,29 @@
+body {
+background-image: linear-gradient(#a4b44c, #e0bf5c, #ec8664);
+}
+
+#titulo {
+    font-size: 40px;
+    text-align: center;
+}
+#caes {
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    padding: auto;
+ }
+
+#aves {
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    padding: auto;
+ }
+
+
+#gatos {
+    height: 150px;
+    width: 250px;
+    margin: 10px;
+    padding: auto;
+}
